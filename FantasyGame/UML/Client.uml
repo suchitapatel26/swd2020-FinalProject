@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Client</OriginalElement>
+  <nodes>
+    <node x="541.0" y="608.0">Client.Fields</node>
+    <node x="720.0" y="1771.0">com.team007.model.SQLColumn</node>
+    <node x="105.5" y="0.0">Server</node>
+    <node x="894.0" y="0.0">com.team007.model.Match</node>
+    <node x="1098.0" y="1528.0">com.team007.model.CountryCollection</node>
+    <node x="584.0" y="1528.0">com.team007.model.PlayerAttributesCollection</node>
+    <node x="474.0" y="996.0">com.team007.model.PlayerAttributes</node>
+    <node x="1241.0" y="1771.0">ClientTest</node>
+    <node x="341.0" y="1528.0">com.team007.model.Country</node>
+    <node x="563.0" y="0.0">Client</node>
+    <node x="1476.0" y="1771.0">com.com.team07.test.SQLConnectionTest</node>
+    <node x="1625.0" y="1122.0">com.team07.SQL.SQLConnectionImplement</node>
+    <node x="0.0" y="320.0">Server.Soccer</node>
+    <node x="0.0" y="1528.0">com.team007.model.Team</node>
+    <node x="1711.0" y="1771.0">ServerTest</node>
+    <node x="1654.5" y="996.0">com.team07.SQL.SQLConnectionInterface</node>
+    <node x="0.0" y="996.0">com.team07.SQL.SQLFunctions</node>
+    <node x="364.0" y="1771.0">com.team007.model.TeamCollection</node>
+    <node x="1017.0" y="1771.0">com.team007.model.SQLTable</node>
+    <node x="1490.0" y="1528.0">com.team007.model.PlayerCollection</node>
+    <node x="0.0" y="1771.0">com.team007.model.MatchCollection</node>
+    <node x="1190.0" y="996.0">com.team007.model.Player</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Client.Fields" target="Client">
+      <point x="0.0" y="-75.0" />
+      <point x="0.0" y="279.0" />
+    </edge>
+    <edge source="Server.Soccer" target="Server">
+      <point x="0.0" y="-315.5" />
+      <point x="0.0" y="135.0" />
+    </edge>
+    <edge source="com.team07.SQL.SQLConnectionImplement" target="com.team07.SQL.SQLConnectionInterface">
+      <point x="0.0" y="-63.0" />
+      <point x="0.0" y="38.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="916.7936507936513" y="777.8571428571428" />
+  <SelectedNodes>
+    <node>Client.Fields</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>Project Files</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
